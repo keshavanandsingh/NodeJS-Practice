@@ -1,1 +1,1 @@
-# NodeJS-Practice
+# JavaScript Practice Problems
